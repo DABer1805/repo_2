@@ -1,0 +1,20 @@
+Ветки master и demo не различаются файлом human.txt, но зато сильно отличаются
+по коммитам.
+ + master:
+    * Merge remote-tracking branch 'origin/hat'
+    * Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    * Merge remote-tracking branch 'origin/boots' into boots_buttons
+    * fix readme
+    * dots
+    * README added
+    * boots
+    * heat added
+    * init
+ + demo:
+    * Merge branch 'buttons' into demo
+    * dots
+    * README added
+    * Merge branch 'boots' into release
+    * boots
+    * heat added
+    * init
